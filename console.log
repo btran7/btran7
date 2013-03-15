@@ -1,0 +1,40 @@
+[2013-02-28 10:36:58] INFO  WEBrick 1.3.1
+[2013-02-28 10:36:58] INFO  ruby 1.9.2 (2011-07-09) [i686-linux]
+[2013-02-28 10:36:58] INFO  WEBrick::HTTPServer#start: pid=2217 port=3000
+[2013-02-28 10:37:38] INFO  going to shutdown ...
+[2013-02-28 10:37:39] INFO  WEBrick::HTTPServer#start done.
+[2013-03-08 15:42:43] INFO  WEBrick 1.3.1
+[2013-03-08 15:42:43] INFO  ruby 1.9.2 (2011-07-09) [i686-linux]
+[2013-03-08 15:42:43] INFO  WEBrick::HTTPServer#start: pid=1988 port=3000
+[2013-03-08 16:57:29] INFO  going to shutdown ...
+[2013-03-08 16:57:29] INFO  WEBrick::HTTPServer#start done.
+[2013-03-08 19:18:16] INFO  WEBrick 1.3.1
+[2013-03-08 19:18:16] INFO  ruby 1.9.2 (2011-07-09) [i686-linux]
+[2013-03-08 19:18:16] INFO  WEBrick::HTTPServer#start: pid=1942 port=3000
+[2013-03-08 21:24:07] INFO  going to shutdown ...
+[2013-03-08 21:24:08] INFO  WEBrick::HTTPServer#start done.
+[2013-03-08 21:24:27] INFO  WEBrick 1.3.1
+[2013-03-08 21:24:27] INFO  ruby 1.9.2 (2011-07-09) [i686-linux]
+[2013-03-08 21:24:27] INFO  WEBrick::HTTPServer#start: pid=2491 port=3000
+[2013-03-08 22:25:58] INFO  going to shutdown ...
+[2013-03-08 22:25:58] INFO  WEBrick::HTTPServer#start done.
+[2013-03-10 23:03:02] INFO  WEBrick 1.3.1
+[2013-03-10 23:03:02] INFO  ruby 1.9.2 (2011-07-09) [i686-linux]
+[2013-03-10 23:03:02] INFO  WEBrick::HTTPServer#start: pid=2273 port=3000
+[2013-03-11 01:38:44] INFO  going to shutdown ...
+[2013-03-11 01:38:44] INFO  WEBrick::HTTPServer#start done.
+/home/ubuntu/hw2_rottenpotatoes/app/controllers/movies_controller.rb:19: warning: else without rescue is useless
+/home/ubuntu/hw2_rottenpotatoes/app/controllers/movies_controller.rb:19: warning: else without rescue is useless
+/home/ubuntu/hw2_rottenpotatoes/app/controllers/movies_controller.rb:19: warning: else without rescue is useless
+/home/ubuntu/hw2_rottenpotatoes/app/controllers/movies_controller.rb:19: warning: else without rescue is useless
+/home/ubuntu/hw2_rottenpotatoes/app/controllers/movies_controller.rb:19: warning: else without rescue is useless
+[2013-03-14 09:40:26] INFO  WEBrick 1.3.1
+[2013-03-14 09:40:26] INFO  ruby 1.9.2 (2011-07-09) [i686-linux]
+[2013-03-14 09:40:26] INFO  WEBrick::HTTPServer#start: pid=2322 port=3000
+[2013-03-14 10:46:17] INFO  going to shutdown ...
+[2013-03-14 10:46:17] INFO  WEBrick::HTTPServer#start done.
+[2013-03-14 21:47:06] INFO  WEBrick 1.3.1
+[2013-03-14 21:47:06] INFO  ruby 1.9.2 (2011-07-09) [i686-linux]
+[2013-03-14 21:47:06] INFO  WEBrick::HTTPServer#start: pid=2239 port=3000
+[2013-03-14 21:50:58] INFO  going to shutdown ...
+[2013-03-14 21:50:58] INFO  WEBrick::HTTPServer#start done.
