@@ -15,8 +15,8 @@ class MoviesController < ApplicationController
     @movies = Movie.order(params[:sort_by])
     @movies=@movies.where(:rating => params[:ratings].keys) unless params[:ratings].nil?
     
-    @title_highlight = "highlight" if params[:sort_by] == "title"
-    @release_date_highlight = "highlight" if params[:sort_by] == "release_date"
+    @title_hilite = "hilite" if params[:sort_by] == "title"
+    @release_date_hilite = "hilite" if params[:sort_by] == "release_date"
   end
 
   def new
